@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 This is built on Angular <> NodeJS <> PostgresSql stack where whole UI would be rendered from DB tables.
+Please refer dbinfo.txt for Angular formly related options
 
 ## Development server
 

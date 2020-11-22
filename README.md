@@ -15,6 +15,8 @@ Please refer dbinfo.txt for Angular formly related options
 
 # Screenshots
 ![alt text](https://github.com/pradeepgithubrepo/metaorg/blob/main/src/screenshots/Screenshot%202020-11-19%20at%203.46.22%20PM.png)
+![alt text](https://github.com/pradeepgithubrepo/metaorg/blob/main/src/screenshots/Screenshot%202020-11-19%20at%203.46.28%20PM.png)
+![alt text](https://github.com/pradeepgithubrepo/metaorg/blob/main/src/screenshots/Screenshot%202020-11-19%20at%203.46.35%20PM.png)
 
 ## Development server
 

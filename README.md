@@ -1,9 +1,20 @@
 # Metaorg
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
-
 This is built on Angular <> NodeJS <> PostgresSql stack where whole UI would be rendered from DB tables.
 Please refer dbinfo.txt for Angular formly related options
+
+# Implemented Tech/Services
+* Angular formly rendering from DB.
+* HTTP Interceptors.
+* Metaservices to hook REST APIs.
+* Loaders.
+* Persist data to DB.
+* Dynamically List "View","Delete","Edit" & "Clone" Options.
+* Retreve and load data to forms for edit.
+* Implement multi-step forms.
+* Display JSON as pretty in a model.
+
+# Screenshots
+![alt text](https://github.com/pradeepgithubrepo/metaorg/blob/main/src/screenshots/Screenshot%202020-11-19%20at%203.46.22%20PM.png)
 
 ## Development server
 
